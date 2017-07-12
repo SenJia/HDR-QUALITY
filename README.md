@@ -1,0 +1,1 @@
+# HDR_QUALITY
