@@ -1,3 +1,13 @@
+# This is a no-reference HDR image quality assessment program.
+# A pre-trained model is needed for this code, 
+# you can download one from my cloud space:
+# JPEG_PU_MODEL : https://drive.google.com/a/bristol.ac.uk/file/d/0B-NkNGhp_DJQMTRjcEstaWZwcGc/view?usp=sharing
+#
+# This code and models are released under BSD license.
+#
+# Author: Sen Jia
+#
+
 import cPickle as pickle
 
 import numpy as np
