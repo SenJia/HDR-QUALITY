@@ -6,9 +6,6 @@ This project is for HDR Image Quality Assessment(IQA) based on the paper "Blind 
 
 For more details, please read the paper
 
-
-To assess image quality on HDR images, convolutional neural networks 
-
 Trained on JPEG_XT dataset: https://drive.google.com/open?id=0B-NkNGhp_DJQUGZlM1U3Z2tRQjg
 
 Trained on HDR_JPEG dataset: https://drive.google.com/open?id=0B-NkNGhp_DJQMTRjcEstaWZwcGc
