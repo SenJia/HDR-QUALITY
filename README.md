@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)![scrutinizer](https://scrutinizer-ci.com/g/SenJia/HDR_QUALITY/badges/quality-score.png?b=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/SenJia/HDR_QUALITY/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/SenJia/HDR_QUALITY/?branch=master)
 
 # HDR IMAGE QUALITY ASSESSMENT
 
