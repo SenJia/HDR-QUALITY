@@ -1,4 +1,5 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/SenJia/HDR_QUALITY/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/SenJia/HDR_QUALITY/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/SenJia/HDR_QUALITY/badges/build.png?b=master)](https://scrutinizer-ci.com/g/SenJia/HDR_QUALITY/build-status/master)
 
 # HDR IMAGE QUALITY ASSESSMENT
 
