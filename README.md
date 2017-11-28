@@ -7,6 +7,6 @@ This project is for HDR Image Quality Assessment(IQA) based on the paper "Blind 
 
 Paper and models will be released in September 2017.
 
-Trained on JPEG_XT dataset: https://drive.google.com/open?id=0B-NkNGhp_DJQUGZlM1U3Z2tRQjg
+CNN-model trained on the JPEG_XT dataset: https://drive.google.com/open?id=0B-NkNGhp_DJQUGZlM1U3Z2tRQjg
 
-Trained on HDR_JPEG dataset: https://drive.google.com/open?id=0B-NkNGhp_DJQMTRjcEstaWZwcGc
+CNN-model trained on the HDR_JPEG dataset: https://drive.google.com/open?id=0B-NkNGhp_DJQMTRjcEstaWZwcGc
